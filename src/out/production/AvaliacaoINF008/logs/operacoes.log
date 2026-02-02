@@ -1,0 +1,106 @@
+[2026-02-01 04:18:05.203] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:18:14.233] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:18:25.073] CONSOLIDATE - 1 operações descartadas do histórico
+[2026-02-01 04:18:31.293] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:18:33.112] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:18:33.292] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:18:34.552] UNDO - Marcação de urgência do documento
+[2026-02-01 04:18:38.640] REDO - Marcação de urgência do documento
+[2026-02-01 04:18:40.262] UNDO - Marcação de urgência do documento
+[2026-02-01 04:18:41.326] UNDO - Marcação de urgência do documento
+[2026-02-01 04:18:42.982] UNDO - Marcação de urgência do documento
+[2026-02-01 04:18:54.264] EXECUTE - Proteção do documento (Confidencial)
+[2026-02-01 04:18:58.665] UNDO - Proteção do documento (Confidencial)
+[2026-02-01 04:20:43.790] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:20:47.680] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:20:54.897] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:20:59.412] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:21:01.313] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:21:05.180] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:21:16.481] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:21:24.670] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:21:32.738] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:22:06.683] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:22:18.162] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:27:44.196] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:27:50.024] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:27:52.433] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:28:17.741] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:28:27.483] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:28:29.434] CONSOLIDATE - 1 operações descartadas do histórico
+[2026-02-01 04:29:02.614] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:29:23.171] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:29:32.129] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:29:33.846] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:30:57.334] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:31:03.627] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:31:06.123] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:31:06.463] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:31:06.629] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:31:18.560] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:31:26.075] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:31:29.467] EXECUTE - Proteção do documento (Confidencial)
+[2026-02-01 04:33:26.051] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:34:01.516] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:34:02.495] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:34:09.759] REDO - Assinatura do documento por João das Couves
+[2026-02-01 04:34:11.915] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:38:33.799] EXECUTE - Proteção do documento (Confidencial)
+[2026-02-01 04:38:35.005] UNDO - Proteção do documento (Confidencial)
+[2026-02-01 04:41:50.162] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:03.056] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:42:04.126] UNDO - Marcação de urgência do documento
+[2026-02-01 04:42:07.268] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:42:07.723] UNDO - Marcação de urgência do documento
+[2026-02-01 04:42:09.830] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:42:12.750] UNDO - Marcação de urgência do documento
+[2026-02-01 04:42:15.899] REDO - Marcação de urgência do documento
+[2026-02-01 04:42:17.649] UNDO - Marcação de urgência do documento
+[2026-02-01 04:42:24.102] REDO - Marcação de urgência do documento
+[2026-02-01 04:42:27.887] EXECUTE - Proteção do documento (Confidencial)
+[2026-02-01 04:42:29.950] UNDO - Proteção do documento (Confidencial)
+[2026-02-01 04:42:36.423] CONSOLIDATE - 2 operações descartadas do histórico
+[2026-02-01 04:42:41.115] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:43.228] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:43.389] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:43.553] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:43.703] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:43.868] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:44.055] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:42:44.314] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:43:06.773] EXECUTE - Marcação de urgência do documento
+[2026-02-01 04:43:07.965] UNDO - Marcação de urgência do documento
+[2026-02-01 04:43:09.246] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:43:10.441] UNDO - Assinatura do documento por João das Couves
+[2026-02-01 04:43:59.641] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:44:40.410] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:44:51.576] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 04:44:52.431] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 14:59:44.021] EXECUTE - Proteção do documento (Confidencial)
+[2026-02-01 14:59:44.691] UNDO - Proteção do documento (Confidencial)
+[2026-02-01 14:59:49.017] REDO - Proteção do documento (Confidencial)
+[2026-02-01 14:59:56.762] EXECUTE - Proteção do documento (Confidencial)
+[2026-02-01 15:00:00.785] UNDO - Proteção do documento (Confidencial)
+[2026-02-01 15:00:07.020] REDO - Proteção do documento (Confidencial)
+[2026-02-01 15:00:09.724] UNDO - Proteção do documento (Confidencial)
+[2026-02-01 15:00:18.129] REDO - Proteção do documento (Confidencial)
+[2026-02-01 16:57:25.544] EXECUTE - Alteração de conteúdo do documento (de 8 para 14 caracteres)
+[2026-02-01 16:58:35.852] EXECUTE - Alteração de conteúdo do documento (de 0 para 9 caracteres)
+[2026-02-01 16:58:36.858] UNDO - Alteração de conteúdo do documento (de 0 para 9 caracteres)
+[2026-02-01 16:58:39.753] EXECUTE - Alteração de conteúdo do documento (de 0 para 0 caracteres)
+[2026-02-01 16:58:45.490] EXECUTE - Alteração de conteúdo do documento (de 0 para 6 caracteres)
+[2026-02-01 16:58:46.647] UNDO - Alteração de conteúdo do documento (de 0 para 6 caracteres)
+[2026-02-01 16:59:02.867] EXECUTE - Alteração de conteúdo do documento (de 0 para 11 caracteres)
+[2026-02-01 16:59:07.283] UNDO - Alteração de conteúdo do documento (de 0 para 11 caracteres)
+[2026-02-01 16:59:13.153] REDO - Alteração de conteúdo do documento (de 0 para 11 caracteres)
+[2026-02-01 16:59:15.935] EXECUTE - Alteração de conteúdo do documento (de 11 para 11 caracteres)
+[2026-02-01 16:59:22.366] UNDO - Alteração de conteúdo do documento (de 11 para 11 caracteres)
+[2026-02-01 16:59:26.436] REDO - Alteração de conteúdo do documento (de 11 para 11 caracteres)
+[2026-02-01 16:59:30.072] UNDO - Alteração de conteúdo do documento (de 11 para 11 caracteres)
+[2026-02-01 16:59:31.571] UNDO - Alteração de conteúdo do documento (de 0 para 11 caracteres)
+[2026-02-01 16:59:44.468] CONSOLIDATE - 2 operações descartadas do histórico
+[2026-02-01 16:59:45.939] EXECUTE - Alteração de conteúdo do documento (de 0 para 0 caracteres)
+[2026-02-01 16:59:49.012] EXECUTE - Alteração de conteúdo do documento (de 0 para 0 caracteres)
+[2026-02-01 17:00:39.392] EXECUTE - Alteração de conteúdo do documento (de 0 para 12 caracteres)
+[2026-02-01 17:01:08.939] EXECUTE - Assinatura do documento por João das Couves
+[2026-02-01 17:01:09.883] UNDO - Assinatura do documento por João das Couves

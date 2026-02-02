@@ -6,7 +6,7 @@ import br.ifba.edu.inf011.strategy.StrategyAutenticacaoPorOrgao;
 import br.ifba.edu.inf011.strategy.StrategyAutenticacaoPorUnidade;
 
 public class SingletonFactoryStrategyAutenticacao {
-	
+
 	private static final SingletonFactoryStrategyAutenticacao instance = new SingletonFactoryStrategyAutenticacao();
 	
 	private SingletonFactoryStrategyAutenticacao() {

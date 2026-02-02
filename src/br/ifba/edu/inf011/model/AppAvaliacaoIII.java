@@ -13,7 +13,13 @@ public class AppAvaliacaoIII {
 	
 
 	public void run(DocumentOperatorFactory factory) throws FWDocumentException {
-	    SwingUtilities.invokeLater(() -> new MyGerenciadorDocumentoUI(new CalculoPericialPeritoFactory()).setVisible(true));
+	    SwingUtilities.invokeLater(() -> {
+            try {
+                new MyGerenciadorDocumentoUI(new CalculoPericialPeritoFactory()).setVisible(true);
+            } catch (FWDocumentException e) {
+                throw new RuntimeException(e);
+            }
+        });
 	}
 
 	public static void main(String[] args) throws FWDocumentException {

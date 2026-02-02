@@ -68,7 +68,7 @@ public abstract class AbstractDocumentoBase implements Documento{
 		this.numero = numero;
 	}
     
-    // Exemplo simples de representação do documento
+    
     @Override
     public String toString() {
         return  this.getClass().getSimpleName() + "{" +

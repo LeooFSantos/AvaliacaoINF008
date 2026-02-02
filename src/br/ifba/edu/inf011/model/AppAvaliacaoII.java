@@ -48,7 +48,7 @@ public class AppAvaliacaoII {
 		documento.inicializar(operador, Privacidade.PUBLICO);
 
 		System.out.println(" -- Documento original sem assinatura e sem proxy");
-		documento.setConteudo("Este é o conteudo do documento RESTRITO...");
+		documento.setConteudo("Este é o conteudo do documento CONFIDENCIAL...");
 		System.out.println(documento.getConteudo());
 
 		System.out.println(" -- Documento original assinado e sem proxy");
